@@ -1,5 +1,9 @@
 # learning-sass
-### exercices Sass-Initiation
+### exercices Sass-Initiation 
+
+![sass](assets/img/sass.ico)
+
+
 Dans le cadre de la formation Web développeur Becode.org, Liège.
 Mai 2020
 
