@@ -1,4 +1,23 @@
-body {
+ 
+   $color-h1:red;
+   $color-p:blue;
+
+
+html {
+    height: 100%vh;
+    font-size: (12/16) * 100%;
+
+}
+
+body { 
     background: orange;
+    padding: 0;
+    margin: 0;
     
+}
+h1 {
+    color: $color-h1;}
+
+p {
+    color: $color-p;
 }
